@@ -1,0 +1,2 @@
+# Kalina
+Game about revolutions
